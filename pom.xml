@@ -6,5 +6,5 @@
     <groupId>com.github.enowr</groupId>
     <artifactId>mio_sdk</artifactId>
     <version>3.5.3</version>
-    <packaging>aar</packaging>
+<!--    <packaging>aar</packaging>-->
 </project>
